@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "黑马优购-首页",
+
+  "usingComponents": {
+    "SearchInput":"../../components/SearchInput/SearchInput"
+  }
+}
